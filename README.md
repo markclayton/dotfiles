@@ -1,2 +1,2 @@
 # dotfiles
-zsh,tmux,vim configs
+zsh,tmux,vim config files
