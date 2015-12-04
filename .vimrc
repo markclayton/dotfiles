@@ -23,7 +23,7 @@ set incsearch	" find as you type search
 set hlsearch	" highlight search terms
 set ignorecase smartcase	" case insensitive search
 set wildmode:list:longest,full	" command <Tab> completion
-set cursorline	" highlight current line
+" set cursorline	" highlight current line
 set cmdheight=1
 set switchbuf=useopen
 set showtabline=2
@@ -35,7 +35,7 @@ set autoread	" if file changes outside of vim, auto-reload
 colorscheme solarized
 set background=dark
 " call togglebg#map("<F5>")
-:set t_Co=256 " 256 colors
+" :set t_Co=256 " 256 colors
 
 " Do not make backups at all
 set nobackup
